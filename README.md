@@ -41,6 +41,6 @@ The IsoConcentraChromJ can be applied to quantitative chromatin analysis in both
        * Computes the integrated density for each of the specified areas and subsequently determines the concentric ratios.
        * Calculated ten ratios, denoted as A/B, A1/B, A1/A, A2/B, A2/A, A3/B, A3/A, B1/B, B2/B, and B3/B.
     
- **3d IsoConcentraChromJ**: Similar to the 2d plugin but works for the 3D images by adding the z0stack to all equations and methodology described before.
+ **3d IsoConcentraChromJ**: Similar to the 2d plugin but works for the 3D images by adding the z_stack to all equations and methodology described before.
 
  **Imaging Data**: 10 2D and 3D images used in our analysis are all presented in the folder images.

@@ -43,4 +43,4 @@ The IsoConcentraChromJ can be applied to quantitative chromatin analysis in both
     
  **3d IsoConcentraChromJ**: Similar to the 2d plugin but works for the 3D images by adding the z_stack to all equations and methodology described before.
 
- **Imaging Data**: 10 2D and 3D images used in our analysis are all presented in the folder images.
+ **Imaging Data**: 10 2D and 3D images used in our analysis are all presented in the folders 2D and 3D.
